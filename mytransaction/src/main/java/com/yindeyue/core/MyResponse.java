@@ -1,4 +1,4 @@
-package com.yindeyue.controller;
+package com.yindeyue.core;
 
 import java.io.Serializable;
 
